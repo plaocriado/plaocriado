@@ -74,7 +74,7 @@
 <p align="center">
   <a href="mailto:plaocriado@gmail.com"><img src="https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/plaocriado"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/plaocriado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/pedro-lao-criado-68b570397"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
