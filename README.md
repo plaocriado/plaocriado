@@ -7,7 +7,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.imgur.com/4oQxJ1m.png](https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif)" width="850px" alt="Banner profesional de Pedro Lao Criado">
+  <img src="[[https://i.imgur.com/4oQxJ1m.png](https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif](https://github.com/plaocriado/plaocriado/blob/main/9d1f82cc324e498dd5127a6ed0296dac.gif?raw=true))" width="850px" alt="Banner profesional de Pedro Lao Criado">
 </p>
 
 ---
