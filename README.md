@@ -50,10 +50,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=plaocriado&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plaocriado&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 🏆 Achievements & Contributions
